@@ -20,8 +20,8 @@ public class EstructurasRepetitivas {
 
         //Procedimiento con for
         // diasDeLaSemanaTxt();
-        //Procedimiento con while
-        // diasDeLaSemanaWhile();
+       //Procedimiento con while
+         diasDeLaSemanaWhile();
         impresionMatriz();
     }
 
