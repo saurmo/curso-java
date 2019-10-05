@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/poo/herencia/Persona.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>11</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/s109e19/Documents/NetBeansProjects/EjercicioNro1/src/operadores/NewClass.java</file>
-            <file>file:/C:/Users/s109e19/Documents/NetBeansProjects/EjercicioNro1/src/operadores/Operadores.java</file>
+            <file>file:/C:/Users/s109e19/Documents/NetBeansProjects/EjercicioNro1/src/exceptions/MenuException.java</file>
+            <file>file:/C:/Users/s109e19/Documents/NetBeansProjects/EjercicioNro1/src/exceptions/EjemploExcepciones.java</file>
+            <file>file:/C:/Users/s109e19/Documents/NetBeansProjects/EjercicioNro1/src/exceptions/CodigoErrores.java</file>
+            <file>file:/C:/Users/s109e19/Documents/NetBeansProjects/EjercicioNro1/src/exceptions/MyNumberException.java</file>
         </group>
     </open-files>
 </project-private>
